@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/daniel-nikkar">
-<img align="left" alt="Saket Prag" width="22px" src="images/linkedin.png" />
+<img align="left" alt="Daniel Nikkar" width="22px" src="images/linkedin.png" />
 </a>
 
 <br />
@@ -27,10 +27,7 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="images/js.png"></code>
+
 
 ![Lolman's github stats](https://github-readme-stats.vercel.app/api?username=lolman420&show_icons=true&hide_border=true)
