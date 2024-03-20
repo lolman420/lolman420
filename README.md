@@ -31,4 +31,4 @@ Hi, I'm Daniel Nikkar🙌, a Web Developer and a student at Aalto University. Cu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Lolman's github stats](https://github-readme-stats.vercel.app/api?username=lolman420&show_icons=true&hide_border=true)
