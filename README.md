@@ -8,9 +8,7 @@
 
 <br />
 
-<br />
-
-Hi, I'm Daniel Nikkar🙌, a Web Developer and a student at Aalto University. Apart from programming I enjoy ice hockey 🏒, hitting the gym 🏋️ and playing chess ♟️!
+Hi, I'm Daniel Nikkar🙌, a Web Developer and a student at Aalto University. Currently I'm developing new landing page, with a focus on front end, especially animations, while learning the back end. Apart from programming I enjoy ice hockey 🏒, hitting the gym 🏋️ and playing chess ♟️!
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -18,9 +16,9 @@ Hi, I'm Daniel Nikkar🙌, a Web Developer and a student at Aalto University. Ap
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Studying Information Networks at Aalto.
-- 🌱 I’m currently learning Node.js, GSAP and SQL.
-- 👯 Part of Developer Community.
+- 💻 Working on a front end redesign. 
+- 🔭 Studying Information Networks at Aalto.
+- 🌱 Learning Node.js, GSAP and SQL.
 - 📫 How to reach me: connect with me on Linkedin
 - 📝 [Portfolio](https://nikkardaniel-portfolio.netlify.app/)
 
