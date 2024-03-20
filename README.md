@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Lolman!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Daniel!](https://nikkardaniel-portfolio.netlify.app/)
 
 <br/>
 
@@ -22,11 +22,10 @@ Hi, I'm Daniel Nikkar🙌, a Web Developer and a student at Aalto University. Ap
 - 🌱 I’m currently learning Node.js, GSAP and SQL.
 - 👯 Part of Developer Community.
 - 📫 How to reach me: connect with me on Linkedin
-- 📝[Portfolio](https://nikkardaniel-portfolio.netlify.app/)
+- 📝 [Portfolio](https://nikkardaniel-portfolio.netlify.app/)
 
 
 **Languages and Tools:**
-
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
