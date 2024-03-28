@@ -21,7 +21,7 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 - ⚡ Fun fact: I can juggle with 4 balls
 - 📝 [Portfolio](https://nikkardaniel-portfolio.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d05522c2-dba7-44e6-b4ee-0521734763c8/deploy-status)](https://app.netlify.com/sites/nikkardaniel-portfolio/deploys)
 
-## 💬 Languages and 🛠️ Tools
+### 💬 Languages and 🛠️ Tools
 
 <code><img height="20" src="images/js.png"></code>
 <code><img height="20" src="images/github.png"></code>
@@ -35,7 +35,7 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 <code><img height="20" src="images/ts.png"></code>
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lolman420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <!--
