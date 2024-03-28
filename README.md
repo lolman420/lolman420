@@ -10,6 +10,8 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 
 --- 
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 ## About me
 
 - 💻 Working on a front end redesign.
@@ -18,8 +20,6 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 - 📫 How to reach me: connect with me on Linkedin
 - ⚡ Fun fact: I can juggle with 4 balls
 - 📝 [Portfolio](https://nikkardaniel-portfolio.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d05522c2-dba7-44e6-b4ee-0521734763c8/deploy-status)](https://app.netlify.com/sites/nikkardaniel-portfolio/deploys)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 ## 💬 Languages and 🛠️ Tools
 
