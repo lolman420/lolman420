@@ -1,8 +1,4 @@
-### Hello World 👋 It's [Daniel!](https://nikkardaniel-portfolio.netlify.app/)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/daniel-nikkar">
+### Hello World 👋 It's [Daniel!](https://nikkardaniel-portfolio.netlify.app/) <a href="https://www.linkedin.com/in/daniel-nikkar">
 <img align="left" alt="Daniel Nikkar" width="22px" src="images/linkedin.png" />
 </a>
 
@@ -12,7 +8,7 @@
 
 Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. Currently I'm developing new landing page, with a focus on front end, especially animations, while learning the back end. Apart from programming I enjoy ice hockey 🏒, hitting the gym 🏋️ and playing chess ♟️!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+--- 
 
 ## About me
 
@@ -22,6 +18,8 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 - 📫 How to reach me: connect with me on Linkedin
 - ⚡ Fun fact: I can juggle with 4 balls
 - 📝 [Portfolio](https://nikkardaniel-portfolio.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/d05522c2-dba7-44e6-b4ee-0521734763c8/deploy-status)](https://app.netlify.com/sites/nikkardaniel-portfolio/deploys)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 ## 💬 Languages and 🛠️ Tools
 
@@ -37,11 +35,13 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 <code><img height="20" src="images/ts.png"></code>
 
 
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lolman420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lolman420&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lolman420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -52,6 +52,4 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 ---
 [![](https://visitcount.itsvg.in/api?id=Lolman420&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Lolman's github stats](https://github-readme-stats.vercel.app/api?username=lolman420&show_icons=true&hide_border=true)
+<!-- ![Lolman's github stats](https://github-readme-stats.vercel.app/api?username=lolman420&show_icons=true&hide_border=true) -->
