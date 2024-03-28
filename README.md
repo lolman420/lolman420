@@ -12,7 +12,7 @@ Hi, I'm Daniel Nikkar 🙌, a Web Developer and a student at Aalto University. C
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-## About me
+### About me
 
 - 💻 Working on a front end redesign.
 - 🔭 Studying Information Networks at Aalto.
